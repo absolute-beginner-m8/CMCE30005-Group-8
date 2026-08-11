@@ -1,17 +1,36 @@
-# CMCE30005-Group-8
-<<<<<<< HEAD
-#hi my name is Rutvi
-#hello this is group 8
+# CMCE30005 Business Analytics Challenge
+## [CMCE30005-Group-8] - [Your Dataset Name]
 
-hi
-hello please work 
-=======
+**Subject:** CMCE30005 Business Analytics Challenge, Semester 2 2026
+**University:** University of Melbourne
+**Team Members:** [Sabrina Nguyen], [Name 2], [Name 3], [Name 4]
 
-<<<<<<< HEAD
-# sabrina testing
-=======
-# Thomas Haikal
+---
 
-# testing
->>>>>>> 06ecb7798aba6388dd9378025f1af3f69ccd9e7f
->>>>>>> d3d0fe43197d1f553820ff8b1179975c2f4d850d
+## Business Problem
+
+[Write your one-paragraph problem statement here. Include: who is the stakeholder,
+what question you are answering, why it matters, and what methods you plan to use.]
+
+---
+
+## Dataset
+
+**Dataset name:** [e.g., Airbnb Melbourne - June 2026 Snapshot]
+**Source:** [e.g., Inside Airbnb - http://insideairbnb.com/]
+**Coverage:** [e.g., All active Airbnb listings in Melbourne as of 16 June 2026]
+
+### Data Files
+
+| File | Description | Size |
+|------|-------------|------|
+| `listings_all.csv` | Full listing details (~75 variables) | ~50 MB |
+| `reviews_all.csv` | Guest review text | ~200 MB |
+| `calendar_all.csv` | Daily availability and pricing | ~1 GB |
+
+> **Note:** Data files are not committed to this repository due to size.
+> Download from: [insert download URL or instructions]
+
+---
+
+*Last updated: [11/08/2026]*
